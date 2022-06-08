@@ -1,0 +1,4 @@
+2022-06-07 00:19:20: #ERROR# Stage:  -2147221080: Automation error
+Stage: 
+2022-06-07 00:19:20: #Info# Stage: Macro is going to finish due to error... 
+2022-06-07 00:19:20: #Info# Stage: Finishing work. 

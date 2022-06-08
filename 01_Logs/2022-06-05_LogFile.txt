@@ -1,0 +1,35 @@
+2022-06-05 17:35:58: #ERROR# Stage:  -2147418105: Automation error
+The callee (server [not server application]) is not available and disappeared; all connections are invalid. The call may have executed. 
+Stage: 
+2022-06-05 17:35:58: #Info# Stage: Macro is going to finish due to error... 
+2022-06-05 17:35:58: #Info# Stage: Finishing work. 
+2022-06-05 17:36:10: #ERROR# Stage:  -2147418105: Automation error
+The callee (server [not server application]) is not available and disappeared; all connections are invalid. The call may have executed. 
+Stage: 
+2022-06-05 17:36:10: #Info# Stage: Macro is going to finish due to error... 
+2022-06-05 17:36:10: #Info# Stage: Finishing work. 
+2022-06-05 18:26:04: #ERROR# Stage:  -2147418105: Automation error
+The callee (server [not server application]) is not available and disappeared; all connections are invalid. The call may have executed. 
+Stage: 
+2022-06-05 18:26:04: #Info# Stage: Macro is going to finish due to error... 
+2022-06-05 18:26:04: #Info# Stage: Finishing work. 
+2022-06-05 18:31:05: #ERROR# Stage:  -2147418105: Automation error
+The callee (server [not server application]) is not available and disappeared; all connections are invalid. The call may have executed. 
+Stage: 
+2022-06-05 18:31:05: #Info# Stage: Macro is going to finish due to error... 
+2022-06-05 18:31:06: #Info# Stage: Finishing work. 
+2022-06-05 18:56:29: #ERROR# Stage:  -2147418105: Automation error
+The callee (server [not server application]) is not available and disappeared; all connections are invalid. The call may have executed. 
+Stage: 
+2022-06-05 18:56:29: #Info# Stage: Macro is going to finish due to error... 
+2022-06-05 18:56:29: #Info# Stage: Finishing work. 
+2022-06-05 19:00:17: #ERROR# Stage:  -2147418105: Automation error
+The callee (server [not server application]) is not available and disappeared; all connections are invalid. The call may have executed. 
+Stage: 
+2022-06-05 19:00:17: #Info# Stage: Macro is going to finish due to error... 
+2022-06-05 19:00:17: #Info# Stage: Finishing work. 
+2022-06-05 19:00:56: #ERROR# Stage:  -2147418105: Automation error
+The callee (server [not server application]) is not available and disappeared; all connections are invalid. The call may have executed. 
+Stage: 
+2022-06-05 19:00:56: #Info# Stage: Macro is going to finish due to error... 
+2022-06-05 19:00:56: #Info# Stage: Finishing work. 
